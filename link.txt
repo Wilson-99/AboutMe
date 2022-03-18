@@ -1,0 +1,65 @@
+https://docs.google.com/document/d/1yxhcLWa2RhrDyYENlgBWNCTISAbrhvh9BDWuSbdXV9s/edit
+
+https://eloquentjavascript.net/
+
+https://beta.reactjs.org/
+
+
+
+
+https://willson99.github.io/AboutMe/- link do meu site
+
+
+
+
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto wil-1>cd..
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio>cd "Projecto-1"
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git init
+Initialized empty Git repository in C:/Users/wilson/Documents/Unitel Buka Intermédio/Projecto-1/.git/
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git add .
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git commit -m "primeiro commit"
+[master (root-commit) cd66edd] primeiro commit
+ 6 files changed, 537 insertions(+)
+ create mode 100644 css/main.css
+ create mode 100644 file/a-day-in-2020-future-technology-life-in-future-future-video-technology-in-future-high-tech.mp4
+ create mode 100644 file/download (1).jfif
+ create mode 100644 file/download.jfif
+ create mode 100644 index.html
+ create mode 100644 link.txt
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git branch -M main
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git remote add origin https://github.com/Willson99/AboutMe.git
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git push -u origin main
+info: please complete authentication in your browser...
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+error: RPC failed; curl 92 HTTP/2 stream 0 was not closed cleanly: CANCEL (err 8)
+send-pack: unexpected disconnect while reading sideband packet
+Writing objects: 100% (10/10), 8.54 MiB | 371.00 KiB/s, done.
+Total 10 (delta 0), reused 0 (delta 0), pack-reused 0
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>git push -u origin main
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (10/10), 8.54 MiB | 87.00 KiB/s, done.
+Total 10 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Willson99/AboutMe.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+C:\Users\wilson\Documents\Unitel Buka Intermédio\Projecto-1>
+
+
